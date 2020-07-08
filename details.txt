@@ -1,0 +1,7 @@
+namecheap:
+email namecheap: https://privateemail.com/appsuite/#!!&app=io.ox/mail&folder=default0/INBOX
+username: faisalb01
+
+
+emailjs:
+https://dashboard.emailjs.com/
