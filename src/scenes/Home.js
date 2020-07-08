@@ -48,12 +48,12 @@ function Home() {
                 <div className="hero-sidebar-links">
                     <ul>
                         <li>
-                            <a href="https://www.facebook.com/akharitehari">
+                            <a href="https://www.facebook.com/akharitehari" target="_blank">
                                 <FaFacebookF />
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.facebook.com/groups/568873090456384">
+                            <a href="https://www.facebook.com/groups/568873090456384" target="_blank">
                                 <FaUsers />
                             </a>
                         </li>
