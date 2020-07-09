@@ -21,7 +21,7 @@ function Home() {
       };
 
     return (
-        <section className="section section-hero section-hero-1 display-fit-screen">
+        <section className="section section-hero section-hero-1 display-fit-screen" style={{overflow:'hidden'}}>
             <div className="hero-content">
                 <Slider className="el-slider" {...sliderSettings}>
                     <div className="slide">
@@ -58,7 +58,7 @@ function Home() {
                             </a>
                         </li>
                     </ul>
-                    <p>Powered By <a href="http://www.alphabetdev.com/#/" target="_blank"><span style={{color:'#9fa1bd'}}>alphabetDEV</span></a></p>
+                    <p style={{fontSize:'0.8em'}}>Powered By <a href="http://www.alphabetdev.com/#/" target="_blank"><span style={{color:'#9fa1bd'}}>alphabetDEV</span></a></p>
                 </div>
             </div>
         </section>
